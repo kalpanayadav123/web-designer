@@ -1,2 +1,2 @@
-# web-designer
-web designer
+# web-design
+web development
